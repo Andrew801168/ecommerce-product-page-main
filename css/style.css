@@ -424,7 +424,8 @@ header .container .card .basket .main-btn {
 }
 
 @media (max-width: 575px) {
-  .product-page .product-view .image-slider {
+  .product-page .product-view .image-slider,
+  .overlay {
     display: none;
   }
 }
