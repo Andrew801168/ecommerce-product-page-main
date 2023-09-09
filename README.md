@@ -1,2 +1,2 @@
-# ecommerce-product-page-main
-Ecommerce product page challenge from front end mentor   
+# Live Demo
+https://andrew801168.github.io/ecommerce-product-page-main/
