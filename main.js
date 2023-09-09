@@ -90,6 +90,7 @@ previewImage.onclick = () => {
         box.classList.remove("active");
       });
       e.target.classList.add("active");
+      console.log(e.target.dataset)
       overlayPreview.src = e.target.dataset.src;
     });
   });
